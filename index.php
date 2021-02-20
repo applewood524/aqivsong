@@ -100,7 +100,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>22 Feb 1991</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.aqivsong.herokuapp.com/</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Islamabad, Pakistan</span></li>
                 </ul>
